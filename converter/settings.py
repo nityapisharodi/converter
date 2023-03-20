@@ -25,7 +25,7 @@ SECRET_KEY = '%z#k6javfz3u9x1-!+1ci$%h(w=3ct56iehc6wc_!gd==g^#&e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'vmsdt-pisharodi.becode.org']
 
 
 # Application definition
